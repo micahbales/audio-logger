@@ -1,0 +1,10 @@
+Time: 1 - Speaker: Brad 
+Time: 2 - Speaker: Dominique 
+Time: 3 - Speaker: Alicia 
+Time: 4 - Speaker: Dominique 
+Time: 5 - Speaker: Chandru 
+Time: 6 - Speaker: Chandru 
+Time: 7 - Speaker: Chandru 
+Time: 8 - Speaker: Dominique 
+Time: 9 - Speaker: Dominique 
+Time: 10 - Speaker: Brad 
