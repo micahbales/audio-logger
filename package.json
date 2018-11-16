@@ -1,13 +1,13 @@
 {
   "name": "audio-logger",
   "version": "1.0.0",
-  "description": "",
+  "description": "A processing algorithm for logging audio data depending on who is speaking.",
   "main": "app.js",
   "scripts": {
     "test": "mocha"
   },
   "author": "Micah Bales",
-  "license": "ISC",
+  "license": "+CAL - SEE LICENSE FILE",
   "devDependencies": {
     "mocha": "^5.2.0"
   },
